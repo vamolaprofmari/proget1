@@ -9,11 +9,11 @@ seaImg = loadImage("assests/sea.png");
 
 SafeArray.Img = loadImage("sea.png");
 shipImg = loadAnimation("assets/ship-1.png", 
-"assets/ship-2.png",
+"ship-2.png",
 
- "assets/ship-3.png",
+ "ship-3.png",
 
- "assets/ship-4.png");
+ "ship-4.png");
 
 
 
